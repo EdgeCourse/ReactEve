@@ -1,0 +1,22 @@
+{
+  "customers": [
+    {
+      "id": 0,
+      "name": "Mike Johnson",
+      "email": "mikej@abc.com",
+      "password": "mikej"
+    },
+    {
+      "name": "Cindy Smith",
+      "email": "cinds@abc.com",
+      "password": "cinds",
+      "id": 1
+    },
+    {
+      "name": "Julio Martin",
+      "email": "julim@abc.com",
+      "password": "julim",
+      "id": 2
+    }
+  ]
+}
